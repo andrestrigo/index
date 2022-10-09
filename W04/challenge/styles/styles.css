@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-color: rgb(252, 194, 238);
+    width: 40%;
+    margin: auto;
+    
+}
+
+  a {
+    font-size: 1.5em;
+    font-family: 'Arial Bold';
+
+  }
+
+  a:hover {
+    color: black 
+    
+  }
+  h1 {
+    color: white;
+    font-family:  'Times New Roman', Times, serif;
+    font-size:0.8em;
+  }
+  h2 {
+    color: white;
+    font-family: 'Arial Bold';
+    font-size: 0.8em;
+  }
+  h3 {
+    text-align: left;
+    font-family:  'Arial';
+    font-size: 0.6em;
+    margin-left: 2%;
+   
+  }
+  img {
+    width: 50%;
+  }
+  .main-para {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+nav, footer {
+    
+    color: white;
+    
+}
+footer p {
+  font-size: 0.5em;
+
+  color: black;
+  margin-left: 15%;
+  margin-right: 15%;
+}
