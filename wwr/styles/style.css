@@ -1,8 +1,9 @@
 div {
-    max-width: 1600px;
+    max-width: 400px;
     text-align: center;
     margin: 0 auto;
 }
+
 nav a{
     text-align: center;
     color: #396E94;
