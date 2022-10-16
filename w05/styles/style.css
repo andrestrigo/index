@@ -1,0 +1,24 @@
+header img{
+  width: 80%;
+  height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a img{
+  border-radius: 50%;
+  border: 8px solid rgb(39, 39, 39);
+  width: 150px;
+  margin-left: 55px;
+  margin-right: auto;
+}
+
+.lower a {
+  box-sizing: content-box;
+  padding: 20px;
+  width: 75.7%;
+  background-color: gray;
+  margin: auto;
+  display: block;
+  
+}
