@@ -106,7 +106,7 @@ nav a:hover{
     background-color: #f7e9bf;
     text-decoration: #020C64;
     color: #020C64;
-    font-family:  Reem Kufi Ink, Lato, Helvetica, sans-serif;
+    font-family:  "Reem Kufi Ink", Lato, Helvetica, sans-serif;
     font-size: 18px;
     border: 2px solid #396E94;
     padding: 5px;
@@ -142,7 +142,7 @@ nav a:hover{
 
 h4{
     color: #020C64;
-    font-family:  Reem Kufi Ink, Lato, Helvetica, sans-serif;
+    font-family:  "Reem Kufi Ink", Lato, Helvetica, sans-serif;
 }
 
 .msg h2{
@@ -150,7 +150,7 @@ h4{
 }
 .msg p{
     color: #396E94;
-    font-family: Reem Kufi Ink, Lato, Helvetica, sans-serif;
+    font-family: "Reem Kufi Ink", Lato, Helvetica, sans-serif;
     font-size: 1em;
     padding-bottom: 15px;
 }
@@ -161,7 +161,7 @@ footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: Reem Kufi Ink, Lato, Helvetica, sans-serif;
+    font-family: "Reem Kufi Ink", Lato, Helvetica, sans-serif;
     background-color: #ebcc6e;
 
     
@@ -191,7 +191,7 @@ header nav a {
 }
 h2{
     color: #020C64;
-    margin: 10;
+    margin: 10px;
 }
 
 #logo_link{
