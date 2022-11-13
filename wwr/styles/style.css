@@ -263,6 +263,21 @@ footer .social img{
     opacity: .6;
     transform: scale(1.1);
 }
+
+div.section2 .rivers .river_header{
+    font-size: 16px;
+    text-align: left;
+}
+
+div.section2 .rivers p{
+    text-align: left;
+    color: #396E94;
+    font-family: "Reem Kufi Ink", Lato, Helvetica, sans-serif;
+    font-size: 14px;
+    
+    
+
+}
  
 
 @media screen and (max-width: 900px) {
@@ -307,4 +322,5 @@ footer .social img{
     footer {
         margin-top: 25px;
     }
+    
 }
