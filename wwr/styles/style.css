@@ -264,6 +264,30 @@ footer .social img{
     transform: scale(1.1);
 }
 
+
+div.section1 .rivers .river_header{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+}
+div.section1 img {
+    float: right;
+    margin: 5px;
+    height: 400px;
+    width: 800px;
+  }
+
+div.section1 .rivers p{
+    text-align: left;
+    color: #396E94;
+    font-family: "Reem Kufi Ink", Lato, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 100px;
+    
+    
+
+}
+
 div.section2 .rivers .river_header{
     font-size: 16px;
     text-align: left;
