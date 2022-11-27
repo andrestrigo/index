@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Ink&display=swap');
+
+main section{
+    text-align: center;
+}
+#background {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    grid-column: 1/11;
+    grid-row: 4/9;
+    background-color: #020C64;   
+}
+
+body{
+    background-color: white;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header{
+    font-size: 16px;
+    background-color: #ebcc6e;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a:hover{
+    background-color: #ede4cb;
+    color: #396E94;
+}
+
+content {
+    max-width: 400px;  
+    margin: 0 auto;
+}
+#badminton_index {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav a{
+    text-align: center;
+    color: #396E94;
+    text-decoration: none;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ebcc6e;
+}
+
+header nav a {
+    color: #020C64;
+    padding: 40px;
+    
+}
+
+.logo{
+    width: 150px;
+    border-radius: 10%;
+    
+}
+
+#main_cba {
+    width: 100%;  
+}
+#kids_index {
+    width: 70%;
+    border-radius: 10%;
+}
+
+#text_image_index {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-top: 50px;
+    
+}
+#image_text_right_index{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background-color: #ebcc6e;
+    grid-column: 1/5;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+#image_text_index_1 {
+    width: 120%;
+    border-radius: 10%;
+    margin-left: 10px;  
+    grid-column: 1/1; 
+    margin-top: 17%;
+    
+}
+#text_image_index p{
+    font-size: 14px;
+    grid-column: 2/6;
+    margin-left: 50px;
+    margin-right: 20px;
+    text-align: left;
+    margin-bottom: 5%;
+}
+#image_text_index_2 {
+    width: 100%;
+    border-radius: 10%;   
+    grid-column: 5/5;
+    margin-top: 17%;
+    margin-right: 5px;
+}
+
+#text_image_right {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-top: 30px;
+    background-color: #ede4cb;
+    border-radius: 10px;
+    
+}
+
+#text_image_right h4 {
+    grid-column: 1/5;
+    margin-bottom: -10%;
+    text-align: left;
+    margin-left: 50px;
+}
+
+#text_image_right p {
+    font-size: 14px;
+    grid-column: 1/5;
+    margin-left: 50px;
+    margin-right: 20px;
+    text-align: left;
+    margin-top: 11%;
+    
+}
+#text_image_right img {
+    width: 95%;
+    border-radius: 10%;   
+    grid-column: 5/5;
+    margin-right: 20px;
+    margin-bottom: 17px;
+    
+}
+
+#why_badminton_left {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    font-size: 14px;
+    background-color: antiquewhite;
+}
+#why_badminton_left section{
+    text-align: left;
+    grid-column: 1/4; 
+    margin-left: 50px;
+}
+
+
+#why_badminton_left img{
+    grid-column: 4/6; 
+    width: 100%;
+    border-radius: 10%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+#why_badminton_right{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    background-color: gray;
+    
+}
+#why_badminton_right section{
+    text-align: left;
+    grid-column: 3/6; 
+    margin-left: 60px;
+    font-size: 14px;
+
+}
+#why_badminton_right img{
+    grid-column: 1/2; 
+    width: 100%;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 15px;
+}
+
+
+footer{
+padding: 25px 50px;
+color: #396E94;
+margin-top: 200px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-family: "Reem Kufi Ink", Lato, Helvetica, sans-serif;
+background-color: #ebcc6e;
+}
+footer a{
+color: #396E94;
+text-decoration: none;
+font-size: 1em;
+}
+footer a:hover{
+color: #396E94;
+text-decoration: underline;
+}
