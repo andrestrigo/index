@@ -10,7 +10,7 @@ main section{
     margin-bottom: 40px;
     grid-column: 1/11;
     grid-row: 4/9;
-    background-color: #020C64;   
+    background-color: #0c2781;   
 }
 
 body{
@@ -121,7 +121,7 @@ header nav a {
     margin-right: 20px;
     text-align: left;
     margin-bottom: 5%;
-    color: #020C64;
+    color: #0c2781;
 }
 #image_text_index_2 {
     width: 100%;
@@ -145,7 +145,7 @@ header nav a {
     margin-bottom: -10%;
     text-align: left;
     margin-left: 50px;
-    color: #020C64;
+    color: #0c2781;
 }
 
 #text_image_right p {
@@ -155,7 +155,7 @@ header nav a {
     margin-right: 20px;
     text-align: left;
     margin-top: 11%;
-    color: #020C64;
+    color: #0c2781;
     
 }
 #text_image_right img {
@@ -171,8 +171,9 @@ header nav a {
     display: grid;
     grid-template-columns: repeat(5,1fr);
     font-size: 14px;
-    background-color: antiquewhite;
+    background-color: wheat;
     align-items: center;
+    margin-bottom: 20px;
 }
 #why_badminton_left section{
     text-align: left;
@@ -192,7 +193,7 @@ header nav a {
 #why_badminton_right{
     display: grid;
     grid-template-columns: repeat(5,1fr);
-    background-color: gray;
+    background-color: wheat;
     align-items: center;
     
 }
@@ -215,8 +216,9 @@ header nav a {
     margin-top: 50px;
     display: grid;
     grid-template-columns: repeat(5,1fr);
-    background-color: gray;
+    background-color: #ebcc6e;
     align-items: center;
+    border-radius: 20px;
     
 }
 #why_cba_box p{
