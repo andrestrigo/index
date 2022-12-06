@@ -364,3 +364,11 @@ footer a:hover{
 color: #396E94;
 text-decoration: underline;
 }
+
+#gallery img{
+    width: 70%;
+}
+
+#history img{
+    width: 70%;
+}
